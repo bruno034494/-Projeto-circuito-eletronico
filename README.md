@@ -4,7 +4,7 @@ Projeto prático de circuito digital combinacional desenvolvido no **Autodesk Ti
 
 ---
 
-## 📌 Visão Geral do Projeto
+##  Visão Geral do Projeto
 
 O sistema realiza o controle lógico de dois pontos de iluminação residencial a partir de quatro interruptores manuais, relacionando expressões booleanas, simplificação por Mapa de Karnaugh e montagem física com circuitos integrados TTL/CMOS e transistores de potência.
 
@@ -22,7 +22,7 @@ O sistema realiza o controle lógico de dois pontos de iluminação residencial 
 
 ---
 
-## 🧠 Expressões Booleanas e Otimização
+##  Expressões Booleanas e Otimização
 
 ### 1. Saída $S1$ (Hall Central)
 * **Forma Canônica (Mintermos):**  
@@ -41,7 +41,7 @@ A saída da porta **AND** responsável por $C \cdot D$ é compartilhada: aliment
 
 ---
 
-## 📊 Tabela-Verdade Resumida (Casos de Teste)
+##  Tabela-Verdade Resumida (Casos de Teste)
 
 | Entrada (ABCD) | Cenário de Entrada | S1 (Hall Central) | S2 (Externa) | Estado |
 | :---: | :--- | :---: | :---: | :---: |
@@ -53,7 +53,7 @@ A saída da porta **AND** responsável por $C \cdot D$ é compartilhada: aliment
 
 ---
 
-## 📦 Lista de Componentes (BOM)
+##  Lista de Componentes (BOM)
 
 | Componente | Identificação | Função |
 | :--- | :---: | :--- |
@@ -70,7 +70,7 @@ A saída da porta **AND** responsável por $C \cdot D$ é compartilhada: aliment
 
 ---
 
-## 🗂️ Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```text
 ├── PROJETO DE SISTEMAS DIGITAIS.pdf   # Diagrama esquemático gerado no Tinkercad
