@@ -1,0 +1,12 @@
+﻿Nome,Quantidade,Componente
+"2",1," Placa de ensaio"
+"SW1",1," Interruptor DIP DPST x 4"
+"R1, R2, R4, R5, R7",5,"10 kΩ Resistor"
+"R3",1,"10 Ω Resistor"
+"U1",1," Porta quad AND"
+"U2",1," Porta quad OR"
+"R6, R5",2,"200 kΩ Resistor"
+"Tsolução 1, Tsolucao 2",2," Transistor nMOS (MOSFET)"
+"L1, L3",2," Lâmpada"
+"P2",1,"5 , 5  Fonte de energia"
+"C1, C2",2,"100 nF Capacitor"
